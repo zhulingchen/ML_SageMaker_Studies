@@ -3,6 +3,5 @@ __MACOSX
 __pycache__
 data
 *.zip
-plagiarism_data
 .vscode
 .idea
